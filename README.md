@@ -1,5 +1,4 @@
-# OpenStage
-Maptime # 10 Open Stage &amp; ChristMap Market
+# Maptime # 10 Open Stage &amp; ChristMap Market
 
 ## It's time to catch up!
 
@@ -11,23 +10,23 @@ This evening we will have an Open Stage &  a ChristMap Market!! Come and share y
 
 After this it is possible network, chat and have a drink. Ask our entrepreneurs all about their companies, products, ideas and how they did it! Do you like something you see; buy your Mappy Christmas presents here! Until now the following people have confirmed to be there and tell something about their products and companies. They will also bring some products:
 
-[Kunst in Kaart]() Beautiful city maps for on the wall by Jorick van Raalten
+[Kunst in Kaart](https://kunstinkaart.nl/) Beautiful city maps for on the wall by Jorick van Raalten
 
-[Stukje stad]() Pieces of your favorite city by Hilko, Ermi & Kayleigh
+[Stukje stad](http://www.stukjestad.com/) Pieces of your favorite city by Hilko, Ermi & Kayleigh
 
-[GoudsmitUtrecht]() Jewelery with perspective by Aletta Teunen
+[GoudsmitUtrecht](https://www.goudsmidutrecht.nl/) Jewelery with perspective by Aletta Teunen
 
-[Felt & Ribbon]() - Satellite images jewelery by Barbara Sienkiewicz
+[Felt & Ribbon](http://nl.dawanda.com/shop/felt-ribbon) - Satellite images jewelery by Barbara Sienkiewicz
 
-[Sabeare]() Textiles with geo-patterns by Baukje Rienks
+[Sabeare](http://www.sabeare.com/portfolio/) Textiles with geo-patterns by Baukje Rienks
 
-[Elevated Delft Blue Map] tiles by Erik Meerburg
+[Elevated Delft Blue Map]() tiles by Erik Meerburg
 
-[Locomodo]() Bed covers of Amsterdam.
+[Locomodo](http://www.locodomo.nl/) Bed covers of Amsterdam.
 
-[Kenji Wada]() will tell something about his project at a government agency in San Francisco Bay Area. The project was about redesigning a regional transit map.
+[Kenji Wada](http://kenjiwada.jp/) will tell something about his project at a government agency in San Francisco Bay Area. The project was about redesigning a regional transit map.
 
-[Martijn Snelder]() will tell something about his Craft Map made with Mapbox Studio Classic.
+[Martijn Snelder](http://carta.guide/martijn/#) will tell something about his Craft Map made with Mapbox Studio Classic.
 
 Maptime is BYOB,  you can bring your own dinner, snacks, drinks and beers to the Waag. Some coffee and tea will be provided. And of course some pizza as snacks are sponsored by CartoDB!
 
